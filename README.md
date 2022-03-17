@@ -1,2 +1,2 @@
-# NATO-alphabet-start
+# NATO-alphabet.
 A military way of your name.
